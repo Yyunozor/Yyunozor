@@ -1,5 +1,5 @@
 - Yyuno, here!
-- 42 Student learning C and computer science.
+- 42 Student learning C, C++, Python, Web and computer science.
 - Voilà!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yyunozor&show_icons=true&theme=shades-of-purple)
